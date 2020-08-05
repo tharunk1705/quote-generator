@@ -42,28 +42,68 @@ let quotes =[
         author : "Steve Jobs",
     },
     {
+        quote : "Stay hungry. Stay foolish.",
+        author : "Steve Jobs",
+    },
+    {
+        quote : "No matter how much experience you have, there’s always something new you can learn and room for improvement.",
+        author : "Roy T. Bennett",
+    },
+    {
         quote : "Creativity is just connecting things.",
         author : "Steve Jobs",
+    },
+    {
+        quote : "Free at last, Free at last, Thank God almighty we are free at last.",
+        author : "Martin Luther King Jr.",
+    },
+    {
+        quote : "Success is a lousy teacher. It seduces smart people into thinking they can't lose.",
+        author : "Bill Gates",
     },
     {
         quote : "Have the courage to follow your heart and intuition. They somehow already know what you truly want to become. Everything else is secondary.",
         author : "Steve Jobs",
     },
     {
+        quote : "The trick is to enjoy life. Don't wish away your days, waiting for better ones ahead.",
+        author : "Marjorie Pay Hinckley",
+    },
+    {
         quote : "Your time is limited, so don’t waste it living someone else’s life.",
         author : "Steve Jobs",
     },
     {
-        quote : "Stay hungry. Stay foolish.",
-        author : "Steve Jobs",
+        quote : "It only takes a split second to smile and forget, yet to someone that needed it, it can last a lifetime.",
+        author : "Steve Maraboli",
     },
     {
         quote : "We can only see a short distance ahead, but we can see plenty there that needs to be done.",
         author : "Alan Turing",
     },
     {
+        quote : "All the problem of women, starts with men. All the problem of men, ends with women.",
+        author : "Santosh Kalwar",
+    },
+    {
         quote : "Those who can imagine anything, can create the impossible.",
         author : "Alan Turing",
+    },
+    {
+        quote : "Happiness has to do with your mindset, not with outside circumstance.",
+        author : "Steve Maraboli",
+    },
+    {
+        quote : "Happiness is the art of sacrifice.",
+        author : "Gustavo Razzetti",
+    },
+    {
+        quote : "Pity those who cannot say: Thy will be done not mine, today.",
+        author : "Philip Gibbs",
+    },
+    {
+        quote : "This is one of those cases in which the imagination is baffled by the facts.",
+        author : "Winston Churchill",
     },
 
 ]
