@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sriracha&display=swap');body{
+    background-color: #eeeeee;
+    color: black;
+}
+
+.myNav{
+    background-color: #252525;
+}
+.navbar-center{
+    font-family: 'Ubuntu', sans-serif;
+    color: #eeeeee;
+    margin-left: auto;
+    margin-right: auto;
+}
+.myContainer{
+    display: grid;
+    place-items: center;
+}
+.iconDark{
+    color: black;
+}
+.h2-text{
+    color: #252525;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 2rem;
+    text-align: center;
+}
+#quote{
+    font-family: 'Sriracha', cursive;
+    color: #393e46;
+    text-justify: inter-word;
+}
+.quoteContainer{
+    text-justify: auto;
+}
